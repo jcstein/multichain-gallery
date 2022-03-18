@@ -1,0 +1,299 @@
+{
+  "jsonrpc": "2.0",
+  "id": 1,
+  "result": {
+    "owner": "0x0e11a192d574b342c51be9e306694c41547185dd",
+    "assets": [
+      {
+        "blockchain": "eth",
+        "name": "Happy Bunny #555",
+        "tokenId": "555",
+        "imageUrl": "https://ipfs.io/ipfs/QmSRkmEDKWUeHi5FiNpQUBAcCq7rKinhf5Pbu8ZPZNkP8r/555",
+        "collectionName": "Happy Bunnies",
+        "symbol": "BUNNY",
+        "contractType": "ERC721",
+        "contractAddress": "0x700b4b9f39bb1faf5d0d16a20488f2733550bff4",
+        "traits": [
+          {
+            "trait_type": "Background",
+            "value": "Green Background"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Black Pearl Necklace"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Sad Eyes"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Right Ear Band"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Small Smile"
+          },
+          {
+            "trait_type": "Skin",
+            "value": "Pink"
+          }
+        ]
+      },
+      {
+        "blockchain": "eth",
+        "name": "Happy Bunny #6907",
+        "tokenId": "6907",
+        "imageUrl": "https://ipfs.io/ipfs/QmSRkmEDKWUeHi5FiNpQUBAcCq7rKinhf5Pbu8ZPZNkP8r/6907",
+        "collectionName": "Happy Bunnies",
+        "symbol": "BUNNY",
+        "contractType": "ERC721",
+        "contractAddress": "0x700b4b9f39bb1faf5d0d16a20488f2733550bff4",
+        "traits": [
+          {
+            "trait_type": "Background",
+            "value": "Light Blue Background"
+          },
+          {
+            "trait_type": "Body",
+            "value": "Pirate Tanktop"
+          },
+          {
+            "trait_type": "Eyes",
+            "value": "Small Point Eyes"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Light Blue Cap"
+          },
+          {
+            "trait_type": "Mouth",
+            "value": "Annoyed Mouth"
+          },
+          {
+            "trait_type": "Skin",
+            "value": "Yellow"
+          }
+        ]
+      },
+      {
+        "blockchain": "eth",
+        "name": "Moon Boyz #8937",
+        "tokenId": "8937",
+        "imageUrl": "https://moon-boyz-api-do.com/metadata/8937",
+        "collectionName": "The Moon Boyz",
+        "symbol": "MOONBOYZ",
+        "contractType": "ERC721",
+        "contractAddress": "0xd8682bfa6918b0174f287b888e765b9a1b4dc9c3",
+        "traits": [
+          {
+            "trait_type": "Background",
+            "value": "Graphic Moon"
+          },
+          {
+            "trait_type": "Suits",
+            "value": "Body Suit Iridescent Purple"
+          },
+          {
+            "trait_type": "Lines",
+            "value": "Lines Suit Blue"
+          },
+          {
+            "trait_type": "Pocket",
+            "value": "Pocket Silver"
+          },
+          {
+            "trait_type": "Helmet Close",
+            "value": "Rare Irdiescent Dark Blue"
+          },
+          {
+            "trait_type": "Ear",
+            "value": "Lightning Red"
+          },
+          {
+            "trait_type": "Visor",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Hologram",
+            "value": "Original Heart"
+          }
+        ]
+      },
+      {
+        "blockchain": "eth",
+        "name": "Moon Boyz #9398",
+        "tokenId": "9398",
+        "imageUrl": "https://moon-boyz-api-do.com/metadata/9398",
+        "collectionName": "The Moon Boyz",
+        "symbol": "MOONBOYZ",
+        "contractType": "ERC721",
+        "contractAddress": "0xd8682bfa6918b0174f287b888e765b9a1b4dc9c3",
+        "traits": [
+          {
+            "trait_type": "Background",
+            "value": "Plain Dark Green"
+          },
+          {
+            "trait_type": "Suits",
+            "value": "Body Suit Iridescent Cosmic"
+          },
+          {
+            "trait_type": "Lines",
+            "value": "Lines Suit Purple"
+          },
+          {
+            "trait_type": "Pocket",
+            "value": "Pocket Silver"
+          },
+          {
+            "trait_type": "Pendants",
+            "value": "Pendant Link Silver"
+          },
+          {
+            "trait_type": "Chain",
+            "value": "Thick Chain Iridescent Purple"
+          },
+          {
+            "trait_type": "Helmet Close",
+            "value": "Rare Irdiescent Green"
+          },
+          {
+            "trait_type": "Ear",
+            "value": "Tesla Antenna Camo"
+          },
+          {
+            "trait_type": "Visor",
+            "value": "Black"
+          },
+          {
+            "trait_type": "Hologram",
+            "value": "Super Rare BTC"
+          }
+        ]
+      },
+      {
+        "blockchain": "eth",
+        "name": "",
+        "tokenId": "3",
+        "imageUrl": "https://ipfs.io/ipfs/ipfs/QmejGPSMfZp3XcVXk2gXSY2UDgYhuYyxsvRQCXWqd9GjgE",
+        "collectionName": "ChainShot Bootcamp",
+        "symbol": "CS",
+        "contractType": "ERC721",
+        "contractAddress": "0xe3fdcb10551e896766853dbe980117183a2ec444",
+        "traits": []
+      },
+      {
+        "blockchain": "eth",
+        "name": "",
+        "tokenId": "4607",
+        "imageUrl": "https://ipfs.io/ipfs/Qme8F4W1jzZ9oAtZ933WTeUAYqJTi9WJ6hyYVwBHY4KctM/4607",
+        "collectionName": "Heroes of Evermore",
+        "symbol": "HOE",
+        "contractType": "ERC721",
+        "contractAddress": "0xf1ef40f5aea5d1501c1b8bcd216cf305764fca40",
+        "traits": [
+          {
+            "trait_type": "name",
+            "value": "Tholag"
+          },
+          {
+            "trait_type": "race",
+            "value": "Barbarian"
+          },
+          {
+            "trait_type": "gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "class",
+            "value": "Cleric"
+          },
+          {
+            "trait_type": "strength",
+            "value": "81"
+          },
+          {
+            "trait_type": "agility",
+            "value": "94"
+          },
+          {
+            "trait_type": "intelligence",
+            "value": "37"
+          },
+          {
+            "trait_type": "wisdom",
+            "value": "89"
+          },
+          {
+            "trait_type": "constitution",
+            "value": "83"
+          }
+        ]
+      },
+      {
+        "blockchain": "eth",
+        "name": "",
+        "tokenId": "6963",
+        "imageUrl": "https://ipfs.io/ipfs/Qme8F4W1jzZ9oAtZ933WTeUAYqJTi9WJ6hyYVwBHY4KctM/6963",
+        "collectionName": "Heroes of Evermore",
+        "symbol": "HOE",
+        "contractType": "ERC721",
+        "contractAddress": "0xf1ef40f5aea5d1501c1b8bcd216cf305764fca40",
+        "traits": [
+          {
+            "trait_type": "name",
+            "value": "Geleron"
+          },
+          {
+            "trait_type": "race",
+            "value": "Wood-Elf"
+          },
+          {
+            "trait_type": "gender",
+            "value": "Male"
+          },
+          {
+            "trait_type": "class",
+            "value": "Guardian"
+          },
+          {
+            "trait_type": "strength",
+            "value": "30"
+          },
+          {
+            "trait_type": "agility",
+            "value": "85"
+          },
+          {
+            "trait_type": "intelligence",
+            "value": "67"
+          },
+          {
+            "trait_type": "wisdom",
+            "value": "85"
+          },
+          {
+            "trait_type": "constitution",
+            "value": "60"
+          },
+          {
+            "trait_type": "title",
+            "value": "The Stoic Protector"
+          }
+        ]
+      },
+      {
+        "blockchain": "polygon",
+        "name": "cute pussy riot Gift🎁",
+        "tokenId": "45724015668447650037055771753648587108816854993188467335862055325151845682104",
+        "imageUrl": "https://api.opensea.io/api/v2/metadata/matic/0x2953399124F0cBB46d2CbACD8A89cF0599974963/45724015668447650037055771753648587108816854993188467335862055325151845682104",
+        "collectionName": "",
+        "symbol": "",
+        "contractType": "ERC1155",
+        "contractAddress": "0x2953399124f0cbb46d2cbacd8a89cf0599974963",
+        "traits": []
+      }
+    ]
+  }
+}
