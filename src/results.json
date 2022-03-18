@@ -1,0 +1,410 @@
+{
+  "jsonrpc": "2.0",
+  "id": 1,
+  "result": {
+    "owner": "0x186ea56f0a40c5593a697b3e804968b8c5920ff3",
+    "assets": [
+      {
+        "blockchain": "eth",
+        "name": "",
+        "tokenId": "2674",
+        "imageUrl": "ipfs://QmPBoX919RxRmDf2gCAKzEyNh11YviZYBifXvuASCkDQCZ",
+        "collectionName": "Crypto Tech Women",
+        "symbol": "CTW",
+        "contractType": "ERC721",
+        "contractAddress": "0x7127206a49824d693932f9edcb77c53fbb8443d7"
+      },
+      {
+        "blockchain": "eth",
+        "name": "Superkids #8",
+        "tokenId": "8",
+        "imageUrl": "ipfs://QmVFxHrEy3eATWf2jysF6XggmuL4seHf63KU2NJHuEZFQ2/8.png",
+        "collectionName": "Superboys",
+        "symbol": "SUPER",
+        "contractType": "ERC721",
+        "contractAddress": "0xe7337a1df1e4c2952d76f73af9665024938094b6",
+        "traits": [
+          {
+            "trait_type": "Background",
+            "value": "Venice Yellow"
+          },
+          {
+            "trait_type": "Skin Tone",
+            "value": "Beloved"
+          },
+          {
+            "trait_type": "Eye White",
+            "value": "Soul"
+          },
+          {
+            "trait_type": "Eye Colour",
+            "value": "Numinous"
+          },
+          {
+            "trait_type": "Eye Shape",
+            "value": "Watchful"
+          },
+          {
+            "trait_type": "Eye Brow",
+            "value": "Build Mode"
+          },
+          {
+            "trait_type": "Lip",
+            "value": "Sky Meditative"
+          },
+          {
+            "trait_type": "Face",
+            "value": "Biometric Tracker"
+          },
+          {
+            "trait_type": "Suit",
+            "value": "Field Dress Snow"
+          },
+          {
+            "trait_type": "Hairstyle",
+            "value": "Luke Skywalker Neon Pink Future"
+          },
+          {
+            "trait_type": "Technology",
+            "value": "The Collection"
+          }
+        ]
+      },
+      {
+        "blockchain": "polygon",
+        "name": "THC World Pass",
+        "tokenId": "4",
+        "imageUrl": "https://www.thehighapesclub.com/assets/nft/worldpass/1.gif",
+        "collectionName": "",
+        "symbol": "",
+        "contractType": "ERC1155",
+        "contractAddress": "0x18e08bad3483651c5f4a0773c76542db32cdad8e"
+      },
+      {
+        "blockchain": "polygon",
+        "name": "Lucky Penny",
+        "tokenId": "63715014865143535966599373988315509205398865914579091255658969011037515669760",
+        "imageUrl": "https://lh3.googleusercontent.com/XH882RUZW1c2uyMwT0JvZ4WCADbD-uUMNCXyy_efBEWo7yfyKTMem3QQyEV7_Yh1nopQyX4QjJo17Qvokg04ybu1QEvY753ngk5B",
+        "collectionName": "",
+        "symbol": "",
+        "contractType": "ERC1155",
+        "contractAddress": "0x2953399124f0cbb46d2cbacd8a89cf0599974963"
+      },
+      {
+        "blockchain": "polygon",
+        "name": "Buildspace: Intro to Web3 | Cohort Ginan | #25",
+        "tokenId": "1984",
+        "imageUrl": "https://tokens.buildspace.so/assets/CH67c5a0d1-f07a-4d9f-85b1-cbc0a21bffb4-24/render.png",
+        "collectionName": "buildspace",
+        "symbol": "BUILDSPACE",
+        "contractType": "ERC721",
+        "contractAddress": "0x3cd266509d127d0eac42f4474f57d0526804b44e",
+        "traits": [
+          {
+            "trait_type": "Cohort",
+            "value": "Ginan"
+          },
+          {
+            "trait_type": "Course",
+            "value": "Intro to Web3"
+          },
+          {
+            "trait_type": "Token",
+            "value": "25"
+          }
+        ]
+      },
+      {
+        "blockchain": "polygon",
+        "name": "Buildspace: Build a Web3 App: Mint Your Own NFT collection | Cohort Deneb | #51",
+        "tokenId": "2149",
+        "imageUrl": "https://tokens.buildspace.so/assets/CH126cf5d5-cc99-4774-88cf-1258ef9abf5e-50/render.png",
+        "collectionName": "buildspace",
+        "symbol": "BUILDSPACE",
+        "contractType": "ERC721",
+        "contractAddress": "0x3cd266509d127d0eac42f4474f57d0526804b44e",
+        "traits": [
+          {
+            "trait_type": "Cohort",
+            "value": "Deneb"
+          },
+          {
+            "trait_type": "Course",
+            "value": "Build a Web3 App: Mint Your Own NFT collection"
+          },
+          {
+            "trait_type": "Token",
+            "value": "51"
+          }
+        ]
+      },
+      {
+        "blockchain": "polygon",
+        "name": "Buildspace: Create a NFT Game | Cohort Beid | #4",
+        "tokenId": "2550",
+        "imageUrl": "https://tokens.buildspace.so/assets/CHf8164866-ea18-4057-9583-768a2036ca30-3/render.mp4",
+        "collectionName": "buildspace",
+        "symbol": "BUILDSPACE",
+        "contractType": "ERC721",
+        "contractAddress": "0x3cd266509d127d0eac42f4474f57d0526804b44e",
+        "traits": [
+          {
+            "trait_type": "Cohort",
+            "value": "Beid"
+          },
+          {
+            "trait_type": "Course",
+            "value": "Create a NFT Game"
+          },
+          {
+            "trait_type": "Token",
+            "value": "4"
+          }
+        ]
+      },
+      {
+        "blockchain": "polygon",
+        "name": "Buildspace: Build a Solana App | Cohort Alkes | #29",
+        "tokenId": "2599",
+        "imageUrl": "https://tokens.buildspace.so/assets/CH9be40837-dd03-4a80-9757-74af0224d35e-28/render.mp4",
+        "collectionName": "buildspace",
+        "symbol": "BUILDSPACE",
+        "contractType": "ERC721",
+        "contractAddress": "0x3cd266509d127d0eac42f4474f57d0526804b44e",
+        "traits": [
+          {
+            "trait_type": "Cohort",
+            "value": "Alkes"
+          },
+          {
+            "trait_type": "Course",
+            "value": "Build a Solana App"
+          },
+          {
+            "trait_type": "Token",
+            "value": "29"
+          }
+        ]
+      },
+      {
+        "blockchain": "polygon",
+        "name": "Buildspace: Solana NFT Collection | Cohort Alkes | #70",
+        "tokenId": "5034",
+        "imageUrl": "https://tokens.buildspace.so/assets/CH38412f17-fa73-49c7-b6e4-385c7d821b95-69/render.mp4",
+        "collectionName": "buildspace",
+        "symbol": "BUILDSPACE",
+        "contractType": "ERC721",
+        "contractAddress": "0x3cd266509d127d0eac42f4474f57d0526804b44e",
+        "traits": [
+          {
+            "trait_type": "Cohort",
+            "value": "Alkes"
+          },
+          {
+            "trait_type": "Course",
+            "value": "Solana NFT Collection"
+          },
+          {
+            "trait_type": "Token",
+            "value": "70"
+          }
+        ]
+      },
+      {
+        "blockchain": "polygon",
+        "name": "buildspace warrior | top community contributor | #216",
+        "tokenId": "5815",
+        "imageUrl": "https://tokens.buildspace.so/assets/CCWARRIOR01-215/render.mp4",
+        "collectionName": "buildspace",
+        "symbol": "BUILDSPACE",
+        "contractType": "ERC721",
+        "contractAddress": "0x3cd266509d127d0eac42f4474f57d0526804b44e",
+        "traits": [
+          {
+            "trait_type": "Cohort",
+            "value": "Warrior"
+          },
+          {
+            "trait_type": "Course",
+            "value": "buildspace warrior | top community contributor | #"
+          },
+          {
+            "trait_type": "Token",
+            "value": "216"
+          }
+        ]
+      },
+      {
+        "blockchain": "polygon",
+        "name": "Buildspace: Build your own DAO with Javascript | Cohort Alkes | #35",
+        "tokenId": "6860",
+        "imageUrl": "https://tokens.buildspace.so/assets/CH4f447780-07cf-408a-8f4c-253a8b4e8bae-34/render.mp4",
+        "collectionName": "buildspace",
+        "symbol": "BUILDSPACE",
+        "contractType": "ERC721",
+        "contractAddress": "0x3cd266509d127d0eac42f4474f57d0526804b44e",
+        "traits": [
+          {
+            "trait_type": "Cohort",
+            "value": "Alkes"
+          },
+          {
+            "trait_type": "Course",
+            "value": "Build your own DAO with Javascript"
+          },
+          {
+            "trait_type": "Token",
+            "value": "35"
+          }
+        ]
+      },
+      {
+        "blockchain": "polygon",
+        "name": "Rugged by the Nation State of Ukraine",
+        "tokenId": "24528",
+        "imageUrl": "ipfs://QmPWcZNzvSx7ZiJAoqWDDvsWVWNuAY2esGuUZoSdVSNiqM",
+        "collectionName": "Rugged by the Nation State of Ukraine",
+        "symbol": "UA",
+        "contractType": "ERC721",
+        "contractAddress": "0x3d8f58dffa3042ec0771ce98393ffbd3a1d5e05a",
+        "traits": [
+          {
+            "trait_type": "Slava",
+            "value": "Ukraini"
+          },
+          {
+            "trait_type": "Heroyam",
+            "value": "Slava"
+          }
+        ]
+      },
+      {
+        "blockchain": "polygon",
+        "name": "",
+        "tokenId": "38",
+        "imageUrl": "",
+        "collectionName": "Pointer Early Supporter - Solid Solidity First 100",
+        "symbol": "PtrKeeb",
+        "contractType": "ERC721",
+        "contractAddress": "0x51ec9365f542ff1c1ff2291ce877358b85568ec6"
+      },
+      {
+        "blockchain": "polygon",
+        "name": "thirdweb Lootbox Finisher",
+        "tokenId": "191",
+        "imageUrl": "https://ipfs.thirdweb.com/ipfs/Qmabg2oq7iKKB9PtWMrpwS8b5x29jcckHkB5A3DujAZCHk/1.gif",
+        "collectionName": "thirdweb NFT Lootbox Finisher",
+        "symbol": "ptr-twlb",
+        "contractType": "ERC721",
+        "contractAddress": "0x8b86d9766db4ace3801cd085ec4174afddfc9956"
+      },
+      {
+        "blockchain": "polygon",
+        "name": "",
+        "tokenId": "2504",
+        "imageUrl": "ipfs://QmaZdyGNxdM2AB37PXp4bUjF3Mc5VR33r8pwMqmJF3P6be/dev_2504.png",
+        "collectionName": "Pixel Avatars",
+        "symbol": "PXLDEV",
+        "contractType": "ERC721",
+        "contractAddress": "0x916b13fca6192fe5e4e2cd58f712ba9ade43ced0",
+        "traits": [
+          {
+            "trait_type": "Background",
+            "value": "Orange"
+          },
+          {
+            "trait_type": "Clothing",
+            "value": "Bulls Jersey"
+          },
+          {
+            "trait_type": "Industry",
+            "value": "Money Laundering"
+          },
+          {
+            "trait_type": "Location",
+            "value": "Jackson"
+          },
+          {
+            "trait_type": "Language",
+            "value": "Piet"
+          },
+          {
+            "trait_type": "Mind",
+            "value": "Convergent"
+          },
+          {
+            "trait_type": "OS",
+            "value": "macOS"
+          },
+          {
+            "trait_type": "Text_Editor",
+            "value": "Emacs"
+          },
+          {
+            "trait_type": "Vibe",
+            "value": "Generous"
+          }
+        ]
+      },
+      {
+        "blockchain": "polygon",
+        "name": "Pyme Access Pass",
+        "tokenId": "66",
+        "imageUrl": "https://pyme.mypinata.cloud/ipfs/QmRE5kb2AzUC8S58BkiKk9rDXPFFgmGtHp87aH5Q29vJoH",
+        "collectionName": "Pyme Early Access",
+        "symbol": "PYME",
+        "contractType": "ERC721",
+        "contractAddress": "0x95b533998e1e5662764ed9eff218f9772a60bd75",
+        "traits": [
+          {
+            "trait_type": "Clearance Level",
+            "value": "Candy Skull"
+          }
+        ]
+      },
+      {
+        "blockchain": "polygon",
+        "name": "",
+        "tokenId": "29",
+        "imageUrl": "",
+        "collectionName": "",
+        "symbol": "",
+        "contractType": "ERC1155",
+        "contractAddress": "0x9b1fb8ac71f1e511f026f98b886b6d1fc657c99e"
+      },
+      {
+        "blockchain": "polygon",
+        "name": "Atlantis World Seasons: Christmas",
+        "tokenId": "11",
+        "imageUrl": "ipfs://bafybeiderkcdx6yw3xvo6tppzuisizyqysstgbpmcfvedtoo7pt43mq6za",
+        "collectionName": "Atlantis World Seasons",
+        "symbol": "AWS",
+        "contractType": "ERC721",
+        "contractAddress": "0xc8e2ee2663924c3158306eed8002bbff502aac5b",
+        "traits": [
+          {
+            "trait_type": "Type",
+            "value": "Item"
+          },
+          {
+            "trait_type": "Item Type",
+            "value": "Non-Wearable"
+          },
+          {
+            "trait_type": "Environment",
+            "value": "Winter"
+          },
+          {
+            "trait_type": "Theme",
+            "value": "Holiday"
+          },
+          {
+            "trait_type": "Season",
+            "value": "Christmas"
+          }
+        ]
+      }
+    ],
+    "nextPageToken": ""
+  }
+}
