@@ -126,6 +126,21 @@ export const App = () => (
                 chain="Avalanche"
                 imageSlug="https://assets.nftrade.com/image/upload/w_500,c_scale/v1644494655/evm_43114_0x8d01c8ee82e581e55c02117a676b5bbd4734fabb_23240.png"
               />
+              <Card
+                title="Snappy Piranhas #77"
+                chain="Polygon"
+                imageSlug="https://lh3.googleusercontent.com/QI4Qy3Sn6Ret5zOdlmYHv8NOJEunIb5zmJqFZBz-b70bn5Keb1tlRCr9FxqULdHnIOMGrPSqQc5TPs9PucIuFnBV832Vwdg0K2wbIQ=w600"
+              />
+              <Card
+                title="Snappy Piranhas #78"
+                chain="Polygon"
+                imageSlug="https://lh3.googleusercontent.com/Y7YrUQ1rXFDUoqSFjmZcFWfjJo64QurLUaZL1Rf_uFYGeULVC2Hr3ZH4ap7HkFyqWCJ93FmRE7NTfQZNvWo9pCUPFdRtUzL-bS9E=w600"
+              />
+              <Card
+                title="Snappy Piranhas #79"
+                chain="Polygon"
+                imageSlug="https://lh3.googleusercontent.com/ymE7Fnvl0SE76sAl26o67yvhWOIzL-k5T4vsAghPtm1UIQENnFOMOhWEHPTonFaJkFEeOouxa2UZewXxj3OBs_ASJ871YA82diTeZ0M=w600"
+              />
             </SimpleGrid>
           </VStack>
         </Grid>
