@@ -121,6 +121,11 @@ export const App = () => (
                 chain="Polygon"
                 imageSlug="https://ipfs.io/ipfs/bafybeiderkcdx6yw3xvo6tppzuisizyqysstgbpmcfvedtoo7pt43mq6za"
               />
+              <Card
+                title="Rock 23240"
+                chain="Avalanche"
+                imageSlug="https://assets.nftrade.com/image/upload/w_500,c_scale/v1644494655/evm_43114_0x8d01c8ee82e581e55c02117a676b5bbd4734fabb_23240.png"
+              />
             </SimpleGrid>
           </VStack>
         </Grid>
